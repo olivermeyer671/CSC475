@@ -1,0 +1,978 @@
+{
+  "sandbox": {
+    "original_filename": "N020-M02-T04"
+  }, 
+  "annotations": [
+    {
+      "namespace": "chord", 
+      "sandbox": {
+        "key": "human/MARL-Chords"
+      }, 
+      "time": 0, 
+      "duration": null, 
+      "annotation_metadata": {
+        "annotation_tools": "Sonic Visualizer", 
+        "curator": {
+          "name": "Tae Min Cho", 
+          "email": "tmc323@nyu.edu"
+        }, 
+        "annotator": {}, 
+        "version": "1.0", 
+        "corpus": "MARL-Chords", 
+        "annotation_rules": "", 
+        "validation": "TODO", 
+        "data_source": "Undergraduate music students"
+      }, 
+      "data": [
+        {
+          "duration": 0.186, 
+          "confidence": 1.0, 
+          "value": "N", 
+          "time": 0.0
+        }, 
+        {
+          "duration": 0.929, 
+          "confidence": 1.0, 
+          "value": "F:maj", 
+          "time": 0.186
+        }, 
+        {
+          "duration": 0.917, 
+          "confidence": 1.0, 
+          "value": "A:7/5", 
+          "time": 1.115
+        }, 
+        {
+          "duration": 0.905, 
+          "confidence": 1.0, 
+          "value": "D:min", 
+          "time": 2.032
+        }, 
+        {
+          "duration": 0.906, 
+          "confidence": 1.0, 
+          "value": "F:maj/5", 
+          "time": 2.9370000000000003
+        }, 
+        {
+          "duration": 3.6220000000000003, 
+          "confidence": 1.0, 
+          "value": "Bb:maj9", 
+          "time": 3.8430000000000004
+        }, 
+        {
+          "duration": 1.8110000000000002, 
+          "confidence": 1.0, 
+          "value": "D:min", 
+          "time": 7.465000000000001
+        }, 
+        {
+          "duration": 1.8230000000000002, 
+          "confidence": 1.0, 
+          "value": "C:maj/2", 
+          "time": 9.276
+        }, 
+        {
+          "duration": 1.8230000000000002, 
+          "confidence": 1.0, 
+          "value": "Bb:maj/3", 
+          "time": 11.099
+        }, 
+        {
+          "duration": 1.8110000000000002, 
+          "confidence": 1.0, 
+          "value": "C:maj/2", 
+          "time": 12.922
+        }, 
+        {
+          "duration": 1.8230000000000002, 
+          "confidence": 1.0, 
+          "value": "D:min", 
+          "time": 14.733
+        }, 
+        {
+          "duration": 1.8230000000000002, 
+          "confidence": 1.0, 
+          "value": "C:maj/2", 
+          "time": 16.556
+        }, 
+        {
+          "duration": 1.8110000000000002, 
+          "confidence": 1.0, 
+          "value": "Bb:maj/3", 
+          "time": 18.379
+        }, 
+        {
+          "duration": 1.8110000000000002, 
+          "confidence": 1.0, 
+          "value": "C:maj/2", 
+          "time": 20.19
+        }, 
+        {
+          "duration": 1.8230000000000002, 
+          "confidence": 1.0, 
+          "value": "D:min", 
+          "time": 22.001
+        }, 
+        {
+          "duration": 1.822, 
+          "confidence": 1.0, 
+          "value": "A:min", 
+          "time": 23.824
+        }, 
+        {
+          "duration": 1.812, 
+          "confidence": 1.0, 
+          "value": "Bb:maj", 
+          "time": 25.646
+        }, 
+        {
+          "duration": 1.822, 
+          "confidence": 1.0, 
+          "value": "F:maj", 
+          "time": 27.458000000000002
+        }, 
+        {
+          "duration": 1.8230000000000002, 
+          "confidence": 1.0, 
+          "value": "D:min", 
+          "time": 29.28
+        }, 
+        {
+          "duration": 1.8110000000000002, 
+          "confidence": 1.0, 
+          "value": "A:min7", 
+          "time": 31.103
+        }, 
+        {
+          "duration": 1.8230000000000002, 
+          "confidence": 1.0, 
+          "value": "Bb:maj", 
+          "time": 32.914
+        }, 
+        {
+          "duration": 1.8230000000000002, 
+          "confidence": 1.0, 
+          "value": "C:maj", 
+          "time": 34.737
+        }, 
+        {
+          "duration": 1.8110000000000002, 
+          "confidence": 1.0, 
+          "value": "D:min", 
+          "time": 36.56
+        }, 
+        {
+          "duration": 1.8110000000000002, 
+          "confidence": 1.0, 
+          "value": "A:min", 
+          "time": 38.371
+        }, 
+        {
+          "duration": 1.8230000000000002, 
+          "confidence": 1.0, 
+          "value": "Bb:maj", 
+          "time": 40.182
+        }, 
+        {
+          "duration": 1.8230000000000002, 
+          "confidence": 1.0, 
+          "value": "F:maj", 
+          "time": 42.005
+        }, 
+        {
+          "duration": 1.8110000000000002, 
+          "confidence": 1.0, 
+          "value": "D:min", 
+          "time": 43.828
+        }, 
+        {
+          "duration": 1.8230000000000002, 
+          "confidence": 1.0, 
+          "value": "A:min", 
+          "time": 45.639
+        }, 
+        {
+          "duration": 1.822, 
+          "confidence": 1.0, 
+          "value": "Bb:maj", 
+          "time": 47.462
+        }, 
+        {
+          "duration": 1.812, 
+          "confidence": 1.0, 
+          "value": "C:maj", 
+          "time": 49.284000000000006
+        }, 
+        {
+          "duration": 1.822, 
+          "confidence": 1.0, 
+          "value": "F:maj/3", 
+          "time": 51.096000000000004
+        }, 
+        {
+          "duration": 1.8230000000000002, 
+          "confidence": 1.0, 
+          "value": "C:7/b7", 
+          "time": 52.918000000000006
+        }, 
+        {
+          "duration": 1.8110000000000002, 
+          "confidence": 1.0, 
+          "value": "F:maj/5", 
+          "time": 54.74100000000001
+        }, 
+        {
+          "duration": 1.86, 
+          "confidence": 1.0, 
+          "value": "G:min/b3", 
+          "time": 56.55200000000001
+        }, 
+        {
+          "duration": 1.786, 
+          "confidence": 1.0, 
+          "value": "G:min", 
+          "time": 58.412000000000006
+        }, 
+        {
+          "duration": 1.8110000000000002, 
+          "confidence": 1.0, 
+          "value": "A:min", 
+          "time": 60.198
+        }, 
+        {
+          "duration": 0.905, 
+          "confidence": 1.0, 
+          "value": "Bb:maj", 
+          "time": 62.009
+        }, 
+        {
+          "duration": 0.906, 
+          "confidence": 1.0, 
+          "value": "B:dim", 
+          "time": 62.914
+        }, 
+        {
+          "duration": 1.834, 
+          "confidence": 1.0, 
+          "value": "C:maj", 
+          "time": 63.82000000000001
+        }, 
+        {
+          "duration": 1.8230000000000002, 
+          "confidence": 1.0, 
+          "value": "C#:dim", 
+          "time": 65.65400000000001
+        }, 
+        {
+          "duration": 0.906, 
+          "confidence": 1.0, 
+          "value": "F:maj", 
+          "time": 67.477
+        }, 
+        {
+          "duration": 0.905, 
+          "confidence": 1.0, 
+          "value": "E:dim", 
+          "time": 68.38300000000001
+        }, 
+        {
+          "duration": 0.906, 
+          "confidence": 1.0, 
+          "value": "D:min", 
+          "time": 69.28800000000001
+        }, 
+        {
+          "duration": 0.917, 
+          "confidence": 1.0, 
+          "value": "F:maj/5", 
+          "time": 70.194
+        }, 
+        {
+          "duration": 0.894, 
+          "confidence": 1.0, 
+          "value": "Bb:maj", 
+          "time": 71.111
+        }, 
+        {
+          "duration": 0.917, 
+          "confidence": 1.0, 
+          "value": "F:maj/3", 
+          "time": 72.00500000000001
+        }, 
+        {
+          "duration": 0.906, 
+          "confidence": 1.0, 
+          "value": "G:min7", 
+          "time": 72.92200000000001
+        }, 
+        {
+          "duration": 0.927, 
+          "confidence": 1.0, 
+          "value": "C:maj", 
+          "time": 73.828
+        }, 
+        {
+          "duration": 0.896, 
+          "confidence": 1.0, 
+          "value": "F:maj", 
+          "time": 74.75500000000001
+        }, 
+        {
+          "duration": 0.905, 
+          "confidence": 1.0, 
+          "value": "E:dim", 
+          "time": 75.65100000000001
+        }, 
+        {
+          "duration": 0.917, 
+          "confidence": 1.0, 
+          "value": "D:min", 
+          "time": 76.55600000000001
+        }, 
+        {
+          "duration": 0.918, 
+          "confidence": 1.0, 
+          "value": "F:maj/5", 
+          "time": 77.473
+        }, 
+        {
+          "duration": 0.894, 
+          "confidence": 1.0, 
+          "value": "Bb:maj", 
+          "time": 78.391
+        }, 
+        {
+          "duration": 0.905, 
+          "confidence": 1.0, 
+          "value": "F:maj/3", 
+          "time": 79.28500000000001
+        }, 
+        {
+          "duration": 0.917, 
+          "confidence": 1.0, 
+          "value": "G:min7", 
+          "time": 80.19000000000001
+        }, 
+        {
+          "duration": 0.906, 
+          "confidence": 1.0, 
+          "value": "A:7", 
+          "time": 81.107
+        }, 
+        {
+          "duration": 1.8110000000000002, 
+          "confidence": 1.0, 
+          "value": "D:min", 
+          "time": 82.013
+        }, 
+        {
+          "duration": 1.8230000000000002, 
+          "confidence": 1.0, 
+          "value": "D:min7/b7", 
+          "time": 83.82400000000001
+        }, 
+        {
+          "duration": 1.8110000000000002, 
+          "confidence": 1.0, 
+          "value": "G:maj/3", 
+          "time": 85.647
+        }, 
+        {
+          "duration": 1.834, 
+          "confidence": 1.0, 
+          "value": "G:min/b3", 
+          "time": 87.458
+        }, 
+        {
+          "duration": 1.8230000000000002, 
+          "confidence": 1.0, 
+          "value": "G:min7", 
+          "time": 89.292
+        }, 
+        {
+          "duration": 1.8, 
+          "confidence": 1.0, 
+          "value": "C:maj", 
+          "time": 91.11500000000001
+        }, 
+        {
+          "duration": 3.645, 
+          "confidence": 1.0, 
+          "value": "F:maj", 
+          "time": 92.915
+        }, 
+        {
+          "duration": 1.8110000000000002, 
+          "confidence": 1.0, 
+          "value": "D:min", 
+          "time": 96.56
+        }, 
+        {
+          "duration": 1.8110000000000002, 
+          "confidence": 1.0, 
+          "value": "C:maj/2", 
+          "time": 98.37100000000001
+        }, 
+        {
+          "duration": 1.8230000000000002, 
+          "confidence": 1.0, 
+          "value": "Bb:maj/3", 
+          "time": 100.182
+        }, 
+        {
+          "duration": 1.8230000000000002, 
+          "confidence": 1.0, 
+          "value": "C:maj/2", 
+          "time": 102.00500000000001
+        }, 
+        {
+          "duration": 1.8230000000000002, 
+          "confidence": 1.0, 
+          "value": "D:min", 
+          "time": 103.828
+        }, 
+        {
+          "duration": 1.8110000000000002, 
+          "confidence": 1.0, 
+          "value": "C:maj/2", 
+          "time": 105.65100000000001
+        }, 
+        {
+          "duration": 1.8230000000000002, 
+          "confidence": 1.0, 
+          "value": "Bb:maj/3", 
+          "time": 107.462
+        }, 
+        {
+          "duration": 1.8110000000000002, 
+          "confidence": 1.0, 
+          "value": "C:maj/2", 
+          "time": 109.28500000000001
+        }, 
+        {
+          "duration": 1.8230000000000002, 
+          "confidence": 1.0, 
+          "value": "D:min", 
+          "time": 111.096
+        }, 
+        {
+          "duration": 1.8110000000000002, 
+          "confidence": 1.0, 
+          "value": "A:min", 
+          "time": 112.91900000000001
+        }, 
+        {
+          "duration": 1.8230000000000002, 
+          "confidence": 1.0, 
+          "value": "Bb:maj", 
+          "time": 114.73
+        }, 
+        {
+          "duration": 1.8110000000000002, 
+          "confidence": 1.0, 
+          "value": "F:maj", 
+          "time": 116.55300000000001
+        }, 
+        {
+          "duration": 1.822, 
+          "confidence": 1.0, 
+          "value": "D:min", 
+          "time": 118.364
+        }, 
+        {
+          "duration": 1.8230000000000002, 
+          "confidence": 1.0, 
+          "value": "A:min7", 
+          "time": 120.186
+        }, 
+        {
+          "duration": 1.8110000000000002, 
+          "confidence": 1.0, 
+          "value": "Bb:maj", 
+          "time": 122.00900000000001
+        }, 
+        {
+          "duration": 1.8230000000000002, 
+          "confidence": 1.0, 
+          "value": "C:maj", 
+          "time": 123.82000000000001
+        }, 
+        {
+          "duration": 1.8230000000000002, 
+          "confidence": 1.0, 
+          "value": "F:maj/3", 
+          "time": 125.64300000000001
+        }, 
+        {
+          "duration": 1.8230000000000002, 
+          "confidence": 1.0, 
+          "value": "G:min7/b3", 
+          "time": 127.46600000000001
+        }, 
+        {
+          "duration": 1.8110000000000002, 
+          "confidence": 1.0, 
+          "value": "F:maj/5", 
+          "time": 129.28900000000002
+        }, 
+        {
+          "duration": 1.86, 
+          "confidence": 1.0, 
+          "value": "G:min7/b3", 
+          "time": 131.1
+        }, 
+        {
+          "duration": 1.774, 
+          "confidence": 1.0, 
+          "value": "E:min", 
+          "time": 132.96
+        }, 
+        {
+          "duration": 1.8110000000000002, 
+          "confidence": 1.0, 
+          "value": "A:min", 
+          "time": 134.734
+        }, 
+        {
+          "duration": 0.917, 
+          "confidence": 1.0, 
+          "value": "Bb:maj", 
+          "time": 136.54500000000002
+        }, 
+        {
+          "duration": 0.917, 
+          "confidence": 1.0, 
+          "value": "B:dim", 
+          "time": 137.46200000000002
+        }, 
+        {
+          "duration": 1.8110000000000002, 
+          "confidence": 1.0, 
+          "value": "C:maj", 
+          "time": 138.37900000000002
+        }, 
+        {
+          "duration": 1.8350000000000002, 
+          "confidence": 1.0, 
+          "value": "C#:dim", 
+          "time": 140.19
+        }, 
+        {
+          "duration": 0.905, 
+          "confidence": 1.0, 
+          "value": "F:maj", 
+          "time": 142.025
+        }, 
+        {
+          "duration": 0.906, 
+          "confidence": 1.0, 
+          "value": "E:dim", 
+          "time": 142.93
+        }, 
+        {
+          "duration": 0.906, 
+          "confidence": 1.0, 
+          "value": "D:min", 
+          "time": 143.836
+        }, 
+        {
+          "duration": 0.905, 
+          "confidence": 1.0, 
+          "value": "F:maj/5", 
+          "time": 144.74200000000002
+        }, 
+        {
+          "duration": 0.906, 
+          "confidence": 1.0, 
+          "value": "Bb:maj", 
+          "time": 145.64700000000002
+        }, 
+        {
+          "duration": 0.905, 
+          "confidence": 1.0, 
+          "value": "F:maj/3", 
+          "time": 146.553
+        }, 
+        {
+          "duration": 0.9410000000000001, 
+          "confidence": 1.0, 
+          "value": "G:min", 
+          "time": 147.458
+        }, 
+        {
+          "duration": 0.874, 
+          "confidence": 1.0, 
+          "value": "C:maj", 
+          "time": 148.399
+        }, 
+        {
+          "duration": 0.914, 
+          "confidence": 1.0, 
+          "value": "F:maj", 
+          "time": 149.273
+        }, 
+        {
+          "duration": 0.917, 
+          "confidence": 1.0, 
+          "value": "E:dim", 
+          "time": 150.187
+        }, 
+        {
+          "duration": 0.905, 
+          "confidence": 1.0, 
+          "value": "D:min", 
+          "time": 151.104
+        }, 
+        {
+          "duration": 0.918, 
+          "confidence": 1.0, 
+          "value": "F:maj/5", 
+          "time": 152.00900000000001
+        }, 
+        {
+          "duration": 0.894, 
+          "confidence": 1.0, 
+          "value": "Bb:maj", 
+          "time": 152.92700000000002
+        }, 
+        {
+          "duration": 0.917, 
+          "confidence": 1.0, 
+          "value": "F:maj/3", 
+          "time": 153.821
+        }, 
+        {
+          "duration": 0.917, 
+          "confidence": 1.0, 
+          "value": "G:min7", 
+          "time": 154.738
+        }, 
+        {
+          "duration": 0.906, 
+          "confidence": 1.0, 
+          "value": "A:7", 
+          "time": 155.655
+        }, 
+        {
+          "duration": 1.8110000000000002, 
+          "confidence": 1.0, 
+          "value": "D:min", 
+          "time": 156.561
+        }, 
+        {
+          "duration": 1.822, 
+          "confidence": 1.0, 
+          "value": "F:maj/5", 
+          "time": 158.372
+        }, 
+        {
+          "duration": 1.8230000000000002, 
+          "confidence": 1.0, 
+          "value": "G:maj/3", 
+          "time": 160.19400000000002
+        }, 
+        {
+          "duration": 1.8190000000000002, 
+          "confidence": 1.0, 
+          "value": "Bb:maj7", 
+          "time": 162.017
+        }, 
+        {
+          "duration": 1.804, 
+          "confidence": 1.0, 
+          "value": "G:min7", 
+          "time": 163.836
+        }, 
+        {
+          "duration": 1.822, 
+          "confidence": 1.0, 
+          "value": "C:maj", 
+          "time": 165.64000000000001
+        }, 
+        {
+          "duration": 3.6340000000000003, 
+          "confidence": 1.0, 
+          "value": "F:maj", 
+          "time": 167.46200000000002
+        }, 
+        {
+          "duration": 3.6340000000000003, 
+          "confidence": 1.0, 
+          "value": "Bb:maj", 
+          "time": 171.096
+        }, 
+        {
+          "duration": 3.6460000000000004, 
+          "confidence": 1.0, 
+          "value": "F:maj", 
+          "time": 174.73000000000002
+        }, 
+        {
+          "duration": 3.6340000000000003, 
+          "confidence": 1.0, 
+          "value": "Bb:maj", 
+          "time": 178.376
+        }, 
+        {
+          "duration": 3.6340000000000003, 
+          "confidence": 1.0, 
+          "value": "F:maj", 
+          "time": 182.01000000000002
+        }, 
+        {
+          "duration": 1.822, 
+          "confidence": 1.0, 
+          "value": "G:min", 
+          "time": 185.644
+        }, 
+        {
+          "duration": 1.8110000000000002, 
+          "confidence": 1.0, 
+          "value": "C:maj", 
+          "time": 187.466
+        }, 
+        {
+          "duration": 1.8350000000000002, 
+          "confidence": 1.0, 
+          "value": "A:dim", 
+          "time": 189.27700000000002
+        }, 
+        {
+          "duration": 0.905, 
+          "confidence": 1.0, 
+          "value": "D:aug", 
+          "time": 191.11200000000002
+        }, 
+        {
+          "duration": 0.906, 
+          "confidence": 1.0, 
+          "value": "D:7", 
+          "time": 192.01700000000002
+        }, 
+        {
+          "duration": 1.8110000000000002, 
+          "confidence": 1.0, 
+          "value": "G:min7", 
+          "time": 192.923
+        }, 
+        {
+          "duration": 1.8230000000000002, 
+          "confidence": 1.0, 
+          "value": "A:min7", 
+          "time": 194.734
+        }, 
+        {
+          "duration": 0.905, 
+          "confidence": 1.0, 
+          "value": "Bb:maj7", 
+          "time": 196.55700000000002
+        }, 
+        {
+          "duration": 0.918, 
+          "confidence": 1.0, 
+          "value": "B:dim", 
+          "time": 197.46200000000002
+        }, 
+        {
+          "duration": 1.8110000000000002, 
+          "confidence": 1.0, 
+          "value": "C:maj", 
+          "time": 198.38000000000002
+        }, 
+        {
+          "duration": 1.834, 
+          "confidence": 1.0, 
+          "value": "C#:dim", 
+          "time": 200.191
+        }, 
+        {
+          "duration": 0.906, 
+          "confidence": 1.0, 
+          "value": "F:maj", 
+          "time": 202.025
+        }, 
+        {
+          "duration": 0.905, 
+          "confidence": 1.0, 
+          "value": "E:dim", 
+          "time": 202.931
+        }, 
+        {
+          "duration": 0.918, 
+          "confidence": 1.0, 
+          "value": "D:min", 
+          "time": 203.836
+        }, 
+        {
+          "duration": 0.894, 
+          "confidence": 1.0, 
+          "value": "F:maj/5", 
+          "time": 204.75400000000002
+        }, 
+        {
+          "duration": 0.905, 
+          "confidence": 1.0, 
+          "value": "Bb:maj", 
+          "time": 205.64800000000002
+        }, 
+        {
+          "duration": 0.906, 
+          "confidence": 1.0, 
+          "value": "F:maj/3", 
+          "time": 206.55300000000003
+        }, 
+        {
+          "duration": 0.917, 
+          "confidence": 1.0, 
+          "value": "G:min7", 
+          "time": 207.459
+        }, 
+        {
+          "duration": 0.9, 
+          "confidence": 1.0, 
+          "value": "C:maj", 
+          "time": 208.376
+        }, 
+        {
+          "duration": 0.923, 
+          "confidence": 1.0, 
+          "value": "F:maj", 
+          "time": 209.276
+        }, 
+        {
+          "duration": 0.905, 
+          "confidence": 1.0, 
+          "value": "E:dim", 
+          "time": 210.199
+        }, 
+        {
+          "duration": 0.906, 
+          "confidence": 1.0, 
+          "value": "D:min", 
+          "time": 211.104
+        }, 
+        {
+          "duration": 0.917, 
+          "confidence": 1.0, 
+          "value": "F:maj/5", 
+          "time": 212.01000000000002
+        }, 
+        {
+          "duration": 0.894, 
+          "confidence": 1.0, 
+          "value": "Bb:maj", 
+          "time": 212.92700000000002
+        }, 
+        {
+          "duration": 0.906, 
+          "confidence": 1.0, 
+          "value": "F:maj/3", 
+          "time": 213.82100000000003
+        }, 
+        {
+          "duration": 0.917, 
+          "confidence": 1.0, 
+          "value": "G:min7", 
+          "time": 214.727
+        }, 
+        {
+          "duration": 0.917, 
+          "confidence": 1.0, 
+          "value": "A:7", 
+          "time": 215.644
+        }, 
+        {
+          "duration": 1.8110000000000002, 
+          "confidence": 1.0, 
+          "value": "D:min", 
+          "time": 216.561
+        }, 
+        {
+          "duration": 1.8110000000000002, 
+          "confidence": 1.0, 
+          "value": "F:maj/5", 
+          "time": 218.372
+        }, 
+        {
+          "duration": 1.8350000000000002, 
+          "confidence": 1.0, 
+          "value": "G:maj/3", 
+          "time": 220.18300000000002
+        }, 
+        {
+          "duration": 1.8110000000000002, 
+          "confidence": 1.0, 
+          "value": "G:min/b3", 
+          "time": 222.018
+        }, 
+        {
+          "duration": 1.8110000000000002, 
+          "confidence": 1.0, 
+          "value": "G:min7", 
+          "time": 223.829
+        }, 
+        {
+          "duration": 1.8230000000000002, 
+          "confidence": 1.0, 
+          "value": "C:maj", 
+          "time": 225.64000000000001
+        }, 
+        {
+          "duration": 4.551, 
+          "confidence": 1.0, 
+          "value": "F:maj", 
+          "time": 227.46300000000002
+        }, 
+        {
+          "duration": 0.905, 
+          "confidence": 1.0, 
+          "value": "C#:dim", 
+          "time": 232.014
+        }, 
+        {
+          "duration": 0.918, 
+          "confidence": 1.0, 
+          "value": "D:min", 
+          "time": 232.919
+        }, 
+        {
+          "duration": 0.9630000000000001, 
+          "confidence": 1.0, 
+          "value": "F:maj/5", 
+          "time": 233.83700000000002
+        }, 
+        {
+          "duration": 4.319, 
+          "confidence": 1.0, 
+          "value": "Bb:maj", 
+          "time": 234.8
+        }, 
+        {
+          "duration": 6.246, 
+          "confidence": 1.0, 
+          "value": "F:sus4", 
+          "time": 239.11900000000003
+        }, 
+        {
+          "duration": 4.782, 
+          "confidence": 1.0, 
+          "value": "N", 
+          "time": 245.365
+        }
+      ]
+    }
+  ], 
+  "file_metadata": {
+    "jams_version": "0.2.1", 
+    "title": "", 
+    "identifiers": {
+      "audio_md5": "2485b7e161e6e9a11380620282eceaa0", 
+      "echonest_track_id": "TREDVCJ149E3753F8E", 
+      "md5": "2485b7e161e6e9a11380620282eceaa0"
+    }, 
+    "release": "", 
+    "duration": 250.17469, 
+    "artist": ""
+  }
+}

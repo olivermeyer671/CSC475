@@ -1,0 +1,722 @@
+{
+  "sandbox": {
+    "weeks_on_chart": "10", 
+    "chart_date": "1991-06-01", 
+    "peak_rank": "78", 
+    "actual_rank": "93", 
+    "original_filename": "0414", 
+    "target_rank": "91", 
+    "id": "414"
+  }, 
+  "annotations": [
+    {
+      "namespace": "chord", 
+      "sandbox": {
+        "ref_url": "http://ddmal.music.mcgill.ca/billboard", 
+        "key": "human/Billboard-Chords"
+      }, 
+      "time": 0, 
+      "duration": null, 
+      "annotation_metadata": {
+        "annotation_tools": "", 
+        "curator": {
+          "name": "Ashley Bourgoyne", 
+          "email": "john.ashley.burgoyne@mail.mcgill.ca"
+        }, 
+        "annotator": {}, 
+        "version": "2.0.1", 
+        "corpus": "Billboard-Chords", 
+        "annotation_rules": "", 
+        "validation": "", 
+        "data_source": "Graduate music students"
+      }, 
+      "data": [
+        {
+          "duration": 0.394739, 
+          "confidence": 1.0, 
+          "value": "N", 
+          "time": 0.0
+        }, 
+        {
+          "duration": 0.7563070000000001, 
+          "confidence": 1.0, 
+          "value": "N", 
+          "time": 0.394739
+        }, 
+        {
+          "duration": 0.37815400000000005, 
+          "confidence": 1.0, 
+          "value": "N", 
+          "time": 1.151046
+        }, 
+        {
+          "duration": 1.5126140000000001, 
+          "confidence": 1.0, 
+          "value": "B:5", 
+          "time": 1.5292000000000001
+        }, 
+        {
+          "duration": 1.5126140000000001, 
+          "confidence": 1.0, 
+          "value": "F#:sus4", 
+          "time": 3.041814
+        }, 
+        {
+          "duration": 3.0252280000000003, 
+          "confidence": 1.0, 
+          "value": "E:sus2", 
+          "time": 4.554428000000001
+        }, 
+        {
+          "duration": 1.5126140000000001, 
+          "confidence": 1.0, 
+          "value": "B:5", 
+          "time": 7.579657
+        }, 
+        {
+          "duration": 1.5126140000000001, 
+          "confidence": 1.0, 
+          "value": "F#:sus4", 
+          "time": 9.092271
+        }, 
+        {
+          "duration": 3.0252280000000003, 
+          "confidence": 1.0, 
+          "value": "E:sus2", 
+          "time": 10.604885000000001
+        }, 
+        {
+          "duration": 1.515101999, 
+          "confidence": 1.0, 
+          "value": "A:9", 
+          "time": 13.630113000000001
+        }, 
+        {
+          "duration": 1.515101999, 
+          "confidence": 1.0, 
+          "value": "E:maj/3", 
+          "time": 15.145215
+        }, 
+        {
+          "duration": 1.515101999, 
+          "confidence": 1.0, 
+          "value": "A:9", 
+          "time": 16.660317000000003
+        }, 
+        {
+          "duration": 1.515101999, 
+          "confidence": 1.0, 
+          "value": "E:maj/3", 
+          "time": 18.175420000000003
+        }, 
+        {
+          "duration": 1.515101999, 
+          "confidence": 1.0, 
+          "value": "B:5", 
+          "time": 19.690522
+        }, 
+        {
+          "duration": 1.515101999, 
+          "confidence": 1.0, 
+          "value": "E:5", 
+          "time": 21.205624
+        }, 
+        {
+          "duration": 3.0302040000000003, 
+          "confidence": 1.0, 
+          "value": "F#:maj", 
+          "time": 22.720726000000003
+        }, 
+        {
+          "duration": 1.5063950000000002, 
+          "confidence": 1.0, 
+          "value": "B:maj", 
+          "time": 25.75093
+        }, 
+        {
+          "duration": 1.5063950000000002, 
+          "confidence": 1.0, 
+          "value": "F#:sus4", 
+          "time": 27.257324
+        }, 
+        {
+          "duration": 3.012789, 
+          "confidence": 1.0, 
+          "value": "E:9", 
+          "time": 28.763719000000002
+        }, 
+        {
+          "duration": 1.5063950000000002, 
+          "confidence": 1.0, 
+          "value": "B:maj", 
+          "time": 31.776508000000003
+        }, 
+        {
+          "duration": 1.5063950000000002, 
+          "confidence": 1.0, 
+          "value": "F#:sus4", 
+          "time": 33.282902
+        }, 
+        {
+          "duration": 3.012789, 
+          "confidence": 1.0, 
+          "value": "E:9", 
+          "time": 34.789297000000005
+        }, 
+        {
+          "duration": 1.5272080000000001, 
+          "confidence": 1.0, 
+          "value": "A:9", 
+          "time": 37.802086
+        }, 
+        {
+          "duration": 1.5272080000000001, 
+          "confidence": 1.0, 
+          "value": "E:maj/3", 
+          "time": 39.329294000000004
+        }, 
+        {
+          "duration": 1.5272080000000001, 
+          "confidence": 1.0, 
+          "value": "A:9", 
+          "time": 40.856502000000006
+        }, 
+        {
+          "duration": 1.5272080000000001, 
+          "confidence": 1.0, 
+          "value": "E:maj/3", 
+          "time": 42.38371
+        }, 
+        {
+          "duration": 1.5272080000000001, 
+          "confidence": 1.0, 
+          "value": "B:maj/5", 
+          "time": 43.910918
+        }, 
+        {
+          "duration": 1.5272080000000001, 
+          "confidence": 1.0, 
+          "value": "E:9", 
+          "time": 45.438126000000004
+        }, 
+        {
+          "duration": 3.0544160000000002, 
+          "confidence": 1.0, 
+          "value": "F#:maj", 
+          "time": 46.965334000000006
+        }, 
+        {
+          "duration": 3.0515250000000003, 
+          "confidence": 1.0, 
+          "value": "E:maj", 
+          "time": 50.01975100000001
+        }, 
+        {
+          "duration": 2.288644, 
+          "confidence": 1.0, 
+          "value": "F#:maj", 
+          "time": 53.071276000000005
+        }, 
+        {
+          "duration": 0.762881, 
+          "confidence": 1.0, 
+          "value": "C#:maj/b4", 
+          "time": 55.359919000000005
+        }, 
+        {
+          "duration": 3.0515250000000003, 
+          "confidence": 1.0, 
+          "value": "E:maj", 
+          "time": 56.122800000000005
+        }, 
+        {
+          "duration": 1.5257619990000002, 
+          "confidence": 1.0, 
+          "value": "F#:maj", 
+          "time": 59.174325
+        }, 
+        {
+          "duration": 1.5257619990000002, 
+          "confidence": 1.0, 
+          "value": "C#:maj/b4", 
+          "time": 60.700088
+        }, 
+        {
+          "duration": 3.0543310000000004, 
+          "confidence": 1.0, 
+          "value": "E:maj", 
+          "time": 62.22585
+        }, 
+        {
+          "duration": 1.527166, 
+          "confidence": 1.0, 
+          "value": "F#:maj", 
+          "time": 65.280181
+        }, 
+        {
+          "duration": 1.527166, 
+          "confidence": 1.0, 
+          "value": "E:maj/3", 
+          "time": 66.80734700000001
+        }, 
+        {
+          "duration": 3.0543310000000004, 
+          "confidence": 1.0, 
+          "value": "B:sus4/b7", 
+          "time": 68.334512
+        }, 
+        {
+          "duration": 3.0543310000000004, 
+          "confidence": 1.0, 
+          "value": "B:sus4/b7", 
+          "time": 71.388844
+        }, 
+        {
+          "duration": 3.0302040000000003, 
+          "confidence": 1.0, 
+          "value": "B:5", 
+          "time": 74.44317500000001
+        }, 
+        {
+          "duration": 3.0302040000000003, 
+          "confidence": 1.0, 
+          "value": "B:5", 
+          "time": 77.47337900000001
+        }, 
+        {
+          "duration": 1.5412240000000001, 
+          "confidence": 1.0, 
+          "value": "B:maj", 
+          "time": 80.503583
+        }, 
+        {
+          "duration": 1.5412240000000001, 
+          "confidence": 1.0, 
+          "value": "F#:sus4", 
+          "time": 82.044807
+        }, 
+        {
+          "duration": 3.082449, 
+          "confidence": 1.0, 
+          "value": "E:9", 
+          "time": 83.586032
+        }, 
+        {
+          "duration": 1.5412240000000001, 
+          "confidence": 1.0, 
+          "value": "B:maj", 
+          "time": 86.668481
+        }, 
+        {
+          "duration": 1.5412240000000001, 
+          "confidence": 1.0, 
+          "value": "F#:sus4", 
+          "time": 88.209705
+        }, 
+        {
+          "duration": 3.082449, 
+          "confidence": 1.0, 
+          "value": "E:9", 
+          "time": 89.75093000000001
+        }, 
+        {
+          "duration": 1.5334130000000001, 
+          "confidence": 1.0, 
+          "value": "A:9", 
+          "time": 92.83337900000001
+        }, 
+        {
+          "duration": 1.5334130000000001, 
+          "confidence": 1.0, 
+          "value": "E:maj/3", 
+          "time": 94.366791
+        }, 
+        {
+          "duration": 1.5334130000000001, 
+          "confidence": 1.0, 
+          "value": "A:9", 
+          "time": 95.900204
+        }, 
+        {
+          "duration": 1.5334130000000001, 
+          "confidence": 1.0, 
+          "value": "E:maj/3", 
+          "time": 97.43361700000001
+        }, 
+        {
+          "duration": 1.5334130000000001, 
+          "confidence": 1.0, 
+          "value": "B:maj/5", 
+          "time": 98.96702900000001
+        }, 
+        {
+          "duration": 1.5334130000000001, 
+          "confidence": 1.0, 
+          "value": "E:9", 
+          "time": 100.500442
+        }, 
+        {
+          "duration": 3.066824999, 
+          "confidence": 1.0, 
+          "value": "F#:maj", 
+          "time": 102.033855
+        }, 
+        {
+          "duration": 3.048934, 
+          "confidence": 1.0, 
+          "value": "E:maj", 
+          "time": 105.10068000000001
+        }, 
+        {
+          "duration": 2.2867010000000003, 
+          "confidence": 1.0, 
+          "value": "F#:maj", 
+          "time": 108.14961500000001
+        }, 
+        {
+          "duration": 0.7622340000000001, 
+          "confidence": 1.0, 
+          "value": "C#:maj/b4", 
+          "time": 110.43631500000001
+        }, 
+        {
+          "duration": 3.048934, 
+          "confidence": 1.0, 
+          "value": "E:maj", 
+          "time": 111.198549
+        }, 
+        {
+          "duration": 1.524467, 
+          "confidence": 1.0, 
+          "value": "F#:maj", 
+          "time": 114.247483
+        }, 
+        {
+          "duration": 1.524467, 
+          "confidence": 1.0, 
+          "value": "C#:maj/b4", 
+          "time": 115.77195
+        }, 
+        {
+          "duration": 3.0498070000000004, 
+          "confidence": 1.0, 
+          "value": "E:maj", 
+          "time": 117.296417
+        }, 
+        {
+          "duration": 1.524904, 
+          "confidence": 1.0, 
+          "value": "F#:maj", 
+          "time": 120.346224
+        }, 
+        {
+          "duration": 1.524904, 
+          "confidence": 1.0, 
+          "value": "E:maj/3", 
+          "time": 121.87112800000001
+        }, 
+        {
+          "duration": 3.0498070000000004, 
+          "confidence": 1.0, 
+          "value": "B:sus4/b7", 
+          "time": 123.396032
+        }, 
+        {
+          "duration": 2.668581, 
+          "confidence": 1.0, 
+          "value": "B:sus4/b7", 
+          "time": 126.445839
+        }, 
+        {
+          "duration": 0.381226, 
+          "confidence": 1.0, 
+          "value": "B:sus4/b7", 
+          "time": 129.11442
+        }, 
+        {
+          "duration": 3.0132990000000004, 
+          "confidence": 1.0, 
+          "value": "C#:min", 
+          "time": 129.49564600000002
+        }, 
+        {
+          "duration": 3.0132990000000004, 
+          "confidence": 1.0, 
+          "value": "G#:7", 
+          "time": 132.508946
+        }, 
+        {
+          "duration": 3.0132990000000004, 
+          "confidence": 1.0, 
+          "value": "A:maj", 
+          "time": 135.522244999
+        }, 
+        {
+          "duration": 2.259973999, 
+          "confidence": 1.0, 
+          "value": "A:maj", 
+          "time": 138.53554400000002
+        }, 
+        {
+          "duration": 0.753325, 
+          "confidence": 1.0, 
+          "value": "C#:min/5", 
+          "time": 140.795519
+        }, 
+        {
+          "duration": 3.012721, 
+          "confidence": 1.0, 
+          "value": "F#:min", 
+          "time": 141.548844
+        }, 
+        {
+          "duration": 3.012721, 
+          "confidence": 1.0, 
+          "value": "C#:7", 
+          "time": 144.561565
+        }, 
+        {
+          "duration": 3.012721, 
+          "confidence": 1.0, 
+          "value": "D:maj", 
+          "time": 147.574286
+        }, 
+        {
+          "duration": 2.6361310000000002, 
+          "confidence": 1.0, 
+          "value": "F#:min", 
+          "time": 150.587007
+        }, 
+        {
+          "duration": 0.37659000000000004, 
+          "confidence": 1.0, 
+          "value": "F#:min", 
+          "time": 153.223138
+        }, 
+        {
+          "duration": 3.0062360000000004, 
+          "confidence": 1.0, 
+          "value": "E:maj", 
+          "time": 153.599728
+        }, 
+        {
+          "duration": 2.254677, 
+          "confidence": 1.0, 
+          "value": "F#:maj", 
+          "time": 156.605964
+        }, 
+        {
+          "duration": 0.7515590000000001, 
+          "confidence": 1.0, 
+          "value": "C#:maj/b4", 
+          "time": 158.86064100000002
+        }, 
+        {
+          "duration": 3.0062360000000004, 
+          "confidence": 1.0, 
+          "value": "E:maj", 
+          "time": 159.6122
+        }, 
+        {
+          "duration": 1.503117999, 
+          "confidence": 1.0, 
+          "value": "F#:maj", 
+          "time": 162.618435
+        }, 
+        {
+          "duration": 1.503117999, 
+          "confidence": 1.0, 
+          "value": "C#:maj/b4", 
+          "time": 164.121553
+        }, 
+        {
+          "duration": 2.986933, 
+          "confidence": 1.0, 
+          "value": "E:maj", 
+          "time": 165.624671
+        }, 
+        {
+          "duration": 1.493467, 
+          "confidence": 1.0, 
+          "value": "F#:maj", 
+          "time": 168.611604
+        }, 
+        {
+          "duration": 1.493467, 
+          "confidence": 1.0, 
+          "value": "E:maj/3", 
+          "time": 170.105071
+        }, 
+        {
+          "duration": 2.986933, 
+          "confidence": 1.0, 
+          "value": "B:sus4/b7", 
+          "time": 171.59853700000002
+        }, 
+        {
+          "duration": 2.986933, 
+          "confidence": 1.0, 
+          "value": "B:sus4/b7", 
+          "time": 174.585471
+        }, 
+        {
+          "duration": 3.011276, 
+          "confidence": 1.0, 
+          "value": "E:maj", 
+          "time": 177.572404
+        }, 
+        {
+          "duration": 2.258457, 
+          "confidence": 1.0, 
+          "value": "F#:maj", 
+          "time": 180.58367900000002
+        }, 
+        {
+          "duration": 0.752819, 
+          "confidence": 1.0, 
+          "value": "C#:maj/b4", 
+          "time": 182.842136
+        }, 
+        {
+          "duration": 3.011276, 
+          "confidence": 1.0, 
+          "value": "E:maj", 
+          "time": 183.594955
+        }, 
+        {
+          "duration": 1.505638, 
+          "confidence": 1.0, 
+          "value": "F#:maj", 
+          "time": 186.60623
+        }, 
+        {
+          "duration": 1.505638, 
+          "confidence": 1.0, 
+          "value": "C#:maj/b4", 
+          "time": 188.11186800000002
+        }, 
+        {
+          "duration": 3.0178570000000002, 
+          "confidence": 1.0, 
+          "value": "E:maj", 
+          "time": 189.61750600000002
+        }, 
+        {
+          "duration": 1.508928999, 
+          "confidence": 1.0, 
+          "value": "F#:maj", 
+          "time": 192.635363
+        }, 
+        {
+          "duration": 1.508928999, 
+          "confidence": 1.0, 
+          "value": "E:maj/3", 
+          "time": 194.144291
+        }, 
+        {
+          "duration": 3.0178570000000002, 
+          "confidence": 1.0, 
+          "value": "B:sus4/b7", 
+          "time": 195.65322
+        }, 
+        {
+          "duration": 2.640625, 
+          "confidence": 1.0, 
+          "value": "B:sus4/b7", 
+          "time": 198.67107700000003
+        }, 
+        {
+          "duration": 0.377232, 
+          "confidence": 1.0, 
+          "value": "B:sus4/b7", 
+          "time": 201.31170200000003
+        }, 
+        {
+          "duration": 3.0307820000000003, 
+          "confidence": 1.0, 
+          "value": "B:maj", 
+          "time": 201.68893400000002
+        }, 
+        {
+          "duration": 3.0307820000000003, 
+          "confidence": 1.0, 
+          "value": "E:maj7", 
+          "time": 204.719717
+        }, 
+        {
+          "duration": 3.0307820000000003, 
+          "confidence": 1.0, 
+          "value": "C#:min7", 
+          "time": 207.75049900000002
+        }, 
+        {
+          "duration": 2.6519350000000004, 
+          "confidence": 1.0, 
+          "value": "A:9", 
+          "time": 210.781281
+        }, 
+        {
+          "duration": 0.378848, 
+          "confidence": 1.0, 
+          "value": "A:9", 
+          "time": 213.43321600000002
+        }, 
+        {
+          "duration": 3.0923540000000003, 
+          "confidence": 1.0, 
+          "value": "E:maj", 
+          "time": 213.81206300000002
+        }, 
+        {
+          "duration": 3.0923540000000003, 
+          "confidence": 1.0, 
+          "value": "E:maj", 
+          "time": 216.90441700000002
+        }, 
+        {
+          "duration": 3.0923540000000003, 
+          "confidence": 1.0, 
+          "value": "E:maj", 
+          "time": 219.99677100000002
+        }, 
+        {
+          "duration": 3.0923540000000003, 
+          "confidence": 1.0, 
+          "value": "E:maj", 
+          "time": 223.08912500000002
+        }, 
+        {
+          "duration": 2.70581, 
+          "confidence": 1.0, 
+          "value": "E:maj", 
+          "time": 226.18147800000003
+        }, 
+        {
+          "duration": 0.386544, 
+          "confidence": 1.0, 
+          "value": "E:maj", 
+          "time": 228.887288
+        }, 
+        {
+          "duration": 2.171066, 
+          "confidence": 1.0, 
+          "value": "N", 
+          "time": 229.27383200000003
+        }
+      ]
+    }
+  ], 
+  "file_metadata": {
+    "jams_version": "0.2.1", 
+    "title": "Someone", 
+    "identifiers": {
+      "audio_md5": "cb3be7f89d286193231331f8dee95cc7", 
+      "echonest_song_id": "SODCPBJ1315CD4AEE0", 
+      "echonest_track_id": "TRSKTZY149E3BEE007", 
+      "md5": "7dc6fa2fe8f28abe0f9754ab3a9d9f25"
+    }, 
+    "release": "Greatest Hits", 
+    "duration": 231.52327, 
+    "artist": "The Rembrandts"
+  }
+}

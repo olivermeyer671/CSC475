@@ -1,0 +1,130 @@
+{
+  "sandbox": {
+    "original_filename": "16_We_Will_Rock_You"
+  }, 
+  "annotations": [
+    {
+      "namespace": "chord", 
+      "sandbox": {
+        "key": "human/Isophonics"
+      }, 
+      "time": 0, 
+      "duration": null, 
+      "annotation_metadata": {
+        "annotation_tools": "Sonic Visualizer", 
+        "curator": {
+          "name": "", 
+          "email": ""
+        }, 
+        "annotator": {
+          "name": "TODO", 
+          "email": "TODO"
+        }, 
+        "version": "1.0", 
+        "corpus": "Isophonics", 
+        "annotation_rules": "TODO", 
+        "validation": "TODO", 
+        "data_source": "Centre for Digital Music"
+      }, 
+      "data": [
+        {
+          "duration": 0.232, 
+          "confidence": 1.0, 
+          "value": "N", 
+          "time": 0.0
+        }, 
+        {
+          "duration": 91.784, 
+          "confidence": 1.0, 
+          "value": "N", 
+          "time": 0.232
+        }, 
+        {
+          "duration": 2.9090000000000003, 
+          "confidence": 1.0, 
+          "value": "C", 
+          "time": 92.016
+        }, 
+        {
+          "duration": 3.62, 
+          "confidence": 1.0, 
+          "value": "A", 
+          "time": 94.92500000000001
+        }, 
+        {
+          "duration": 0.786, 
+          "confidence": 1.0, 
+          "value": "D", 
+          "time": 98.545
+        }, 
+        {
+          "duration": 1.49, 
+          "confidence": 1.0, 
+          "value": "A", 
+          "time": 99.331
+        }, 
+        {
+          "duration": 1.522, 
+          "confidence": 1.0, 
+          "value": "D", 
+          "time": 100.82100000000001
+        }, 
+        {
+          "duration": 2.216, 
+          "confidence": 1.0, 
+          "value": "A", 
+          "time": 102.343
+        }, 
+        {
+          "duration": 0.682, 
+          "confidence": 1.0, 
+          "value": "A:sus4", 
+          "time": 104.55900000000001
+        }, 
+        {
+          "duration": 1.4260000000000002, 
+          "confidence": 1.0, 
+          "value": "D", 
+          "time": 105.241
+        }, 
+        {
+          "duration": 2.248, 
+          "confidence": 1.0, 
+          "value": "A", 
+          "time": 106.667
+        }, 
+        {
+          "duration": 0.7150000000000001, 
+          "confidence": 1.0, 
+          "value": "A:sus4", 
+          "time": 108.915
+        }, 
+        {
+          "duration": 11.512, 
+          "confidence": 1.0, 
+          "value": "A", 
+          "time": 109.63000000000001
+        }, 
+        {
+          "duration": 1.631, 
+          "confidence": 1.0, 
+          "value": "N", 
+          "time": 121.14200000000001
+        }
+      ]
+    }
+  ], 
+  "file_metadata": {
+    "jams_version": "0.2.1", 
+    "title": "We Will Rock You", 
+    "identifiers": {
+      "audio_md5": "d0e866db3999ec54b264e757b5eb1cac", 
+      "echonest_song_id": "SODCMTD144BA55B166", 
+      "echonest_track_id": "TRIHBAE149E2BC4D19", 
+      "md5": "d0e866db3999ec54b264e757b5eb1cac"
+    }, 
+    "release": "News Of The World", 
+    "duration": 122.54041, 
+    "artist": "Queen"
+  }
+}

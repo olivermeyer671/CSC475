@@ -1,0 +1,384 @@
+{
+  "sandbox": {
+    "original_filename": "04-Song_Sung_Blue"
+  }, 
+  "annotations": [
+    {
+      "namespace": "chord", 
+      "sandbox": {
+        "key": "human/MARL-Chords"
+      }, 
+      "time": 0, 
+      "duration": null, 
+      "annotation_metadata": {
+        "annotation_tools": "Sonic Visualizer", 
+        "curator": {
+          "name": "Tae Min Cho", 
+          "email": "tmc323@nyu.edu"
+        }, 
+        "annotator": {}, 
+        "version": "1.0", 
+        "corpus": "MARL-Chords", 
+        "annotation_rules": "", 
+        "validation": "TODO", 
+        "data_source": "Undergraduate music students"
+      }, 
+      "data": [
+        {
+          "duration": 0.325, 
+          "confidence": 1.0, 
+          "value": "N", 
+          "time": 0.0
+        }, 
+        {
+          "duration": 3.274, 
+          "confidence": 1.0, 
+          "value": "C:maj", 
+          "time": 0.325
+        }, 
+        {
+          "duration": 0.48800000000000004, 
+          "confidence": 1.0, 
+          "value": "F:maj/5", 
+          "time": 3.599
+        }, 
+        {
+          "duration": 3.274, 
+          "confidence": 1.0, 
+          "value": "C:maj", 
+          "time": 4.087000000000001
+        }, 
+        {
+          "duration": 0.441, 
+          "confidence": 1.0, 
+          "value": "F:maj/5", 
+          "time": 7.361000000000001
+        }, 
+        {
+          "duration": 3.1350000000000002, 
+          "confidence": 1.0, 
+          "value": "C:maj", 
+          "time": 7.8020000000000005
+        }, 
+        {
+          "duration": 1.927, 
+          "confidence": 1.0, 
+          "value": "F:maj/5", 
+          "time": 10.937000000000001
+        }, 
+        {
+          "duration": 2.043, 
+          "confidence": 1.0, 
+          "value": "G:maj", 
+          "time": 12.864
+        }, 
+        {
+          "duration": 2.972, 
+          "confidence": 1.0, 
+          "value": "C:maj", 
+          "time": 14.907000000000002
+        }, 
+        {
+          "duration": 0.638, 
+          "confidence": 1.0, 
+          "value": "F:maj/5", 
+          "time": 17.879
+        }, 
+        {
+          "duration": 3.124, 
+          "confidence": 1.0, 
+          "value": "C:maj", 
+          "time": 18.517
+        }, 
+        {
+          "duration": 0.464, 
+          "confidence": 1.0, 
+          "value": "F:maj/5", 
+          "time": 21.641000000000002
+        }, 
+        {
+          "duration": 3.2510000000000003, 
+          "confidence": 1.0, 
+          "value": "C:maj", 
+          "time": 22.105
+        }, 
+        {
+          "duration": 1.556, 
+          "confidence": 1.0, 
+          "value": "F:maj/5", 
+          "time": 25.356
+        }, 
+        {
+          "duration": 2.4610000000000003, 
+          "confidence": 1.0, 
+          "value": "D:min", 
+          "time": 26.912000000000003
+        }, 
+        {
+          "duration": 3.5300000000000002, 
+          "confidence": 1.0, 
+          "value": "G:maj", 
+          "time": 29.373
+        }, 
+        {
+          "duration": 8.846, 
+          "confidence": 1.0, 
+          "value": "C:maj", 
+          "time": 32.903
+        }, 
+        {
+          "duration": 8.715, 
+          "confidence": 1.0, 
+          "value": "G:7", 
+          "time": 41.749
+        }, 
+        {
+          "duration": 4.2410000000000005, 
+          "confidence": 1.0, 
+          "value": "C:maj", 
+          "time": 50.464000000000006
+        }, 
+        {
+          "duration": 5.462000000000001, 
+          "confidence": 1.0, 
+          "value": "C:7", 
+          "time": 54.705000000000005
+        }, 
+        {
+          "duration": 4.396, 
+          "confidence": 1.0, 
+          "value": "F:maj", 
+          "time": 60.167
+        }, 
+        {
+          "duration": 4.353000000000001, 
+          "confidence": 1.0, 
+          "value": "G:7", 
+          "time": 64.563
+        }, 
+        {
+          "duration": 4.408, 
+          "confidence": 1.0, 
+          "value": "C:maj", 
+          "time": 68.91600000000001
+        }, 
+        {
+          "duration": 2.1060000000000003, 
+          "confidence": 1.0, 
+          "value": "D:min", 
+          "time": 73.324
+        }, 
+        {
+          "duration": 2.2520000000000002, 
+          "confidence": 1.0, 
+          "value": "G:7", 
+          "time": 75.43
+        }, 
+        {
+          "duration": 4.234, 
+          "confidence": 1.0, 
+          "value": "C:maj", 
+          "time": 77.682
+        }, 
+        {
+          "duration": 8.294, 
+          "confidence": 1.0, 
+          "value": "G:7", 
+          "time": 81.91600000000001
+        }, 
+        {
+          "duration": 4.226, 
+          "confidence": 1.0, 
+          "value": "C:maj", 
+          "time": 90.21000000000001
+        }, 
+        {
+          "duration": 5.2700000000000005, 
+          "confidence": 1.0, 
+          "value": "C:7", 
+          "time": 94.436
+        }, 
+        {
+          "duration": 4.232, 
+          "confidence": 1.0, 
+          "value": "F:maj", 
+          "time": 99.706
+        }, 
+        {
+          "duration": 4.180000000000001, 
+          "confidence": 1.0, 
+          "value": "G:7", 
+          "time": 103.938
+        }, 
+        {
+          "duration": 2.1, 
+          "confidence": 1.0, 
+          "value": "C:maj", 
+          "time": 108.11800000000001
+        }, 
+        {
+          "duration": 2.051, 
+          "confidence": 1.0, 
+          "value": "G:7", 
+          "time": 110.218
+        }, 
+        {
+          "duration": 4.319, 
+          "confidence": 1.0, 
+          "value": "C:maj", 
+          "time": 112.269
+        }, 
+        {
+          "duration": 8.22, 
+          "confidence": 1.0, 
+          "value": "G:7", 
+          "time": 116.58800000000001
+        }, 
+        {
+          "duration": 8.223, 
+          "confidence": 1.0, 
+          "value": "C:maj", 
+          "time": 124.808
+        }, 
+        {
+          "duration": 8.17, 
+          "confidence": 1.0, 
+          "value": "G:7", 
+          "time": 133.031
+        }, 
+        {
+          "duration": 8.270000000000001, 
+          "confidence": 1.0, 
+          "value": "C:maj", 
+          "time": 141.20100000000002
+        }, 
+        {
+          "duration": 8.21, 
+          "confidence": 1.0, 
+          "value": "G:7", 
+          "time": 149.471
+        }, 
+        {
+          "duration": 8.267000000000001, 
+          "confidence": 1.0, 
+          "value": "C:maj", 
+          "time": 157.681
+        }, 
+        {
+          "duration": 8.306000000000001, 
+          "confidence": 1.0, 
+          "value": "G:7", 
+          "time": 165.948
+        }, 
+        {
+          "duration": 8.313, 
+          "confidence": 1.0, 
+          "value": "C:maj", 
+          "time": 174.25400000000002
+        }, 
+        {
+          "duration": 8.367, 
+          "confidence": 1.0, 
+          "value": "G:7", 
+          "time": 182.567
+        }, 
+        {
+          "duration": 8.378, 
+          "confidence": 1.0, 
+          "value": "C:maj", 
+          "time": 190.93400000000003
+        }, 
+        {
+          "duration": 8.327, 
+          "confidence": 1.0, 
+          "value": "G:7", 
+          "time": 199.312
+        }, 
+        {
+          "duration": 4.056, 
+          "confidence": 1.0, 
+          "value": "C:maj", 
+          "time": 207.639
+        }, 
+        {
+          "duration": 5.0520000000000005, 
+          "confidence": 1.0, 
+          "value": "C:7", 
+          "time": 211.69500000000002
+        }, 
+        {
+          "duration": 4.140000000000001, 
+          "confidence": 1.0, 
+          "value": "F:maj", 
+          "time": 216.747
+        }, 
+        {
+          "duration": 4.007000000000001, 
+          "confidence": 1.0, 
+          "value": "G:maj", 
+          "time": 220.887
+        }, 
+        {
+          "duration": 4.1290000000000004, 
+          "confidence": 1.0, 
+          "value": "C:maj", 
+          "time": 224.894
+        }, 
+        {
+          "duration": 8.22, 
+          "confidence": 1.0, 
+          "value": "G:7", 
+          "time": 229.02300000000002
+        }, 
+        {
+          "duration": 4.082, 
+          "confidence": 1.0, 
+          "value": "C:maj", 
+          "time": 237.24300000000002
+        }, 
+        {
+          "duration": 5.231000000000001, 
+          "confidence": 1.0, 
+          "value": "C:7", 
+          "time": 241.32500000000002
+        }, 
+        {
+          "duration": 4.025, 
+          "confidence": 1.0, 
+          "value": "F:maj", 
+          "time": 246.556
+        }, 
+        {
+          "duration": 4.257000000000001, 
+          "confidence": 1.0, 
+          "value": "G:maj", 
+          "time": 250.58100000000002
+        }, 
+        {
+          "duration": 23.531000000000002, 
+          "confidence": 1.0, 
+          "value": "C:maj", 
+          "time": 254.83800000000002
+        }, 
+        {
+          "duration": 14.631, 
+          "confidence": 1.0, 
+          "value": "N", 
+          "time": 278.369
+        }
+      ]
+    }
+  ], 
+  "file_metadata": {
+    "jams_version": "0.2.1", 
+    "title": "Song Sung Blue", 
+    "identifiers": {
+      "audio_md5": "1dc643351451edc41656bca634513425", 
+      "echonest_track_id": "TRIXUAK127FA1EC3E6", 
+      "md5": "2e56104623ba9a757bd6f4d1e1a90e97"
+    }, 
+    "release": "", 
+    "duration": 293.51138, 
+    "artist": "Neil Diamond"
+  }
+}
